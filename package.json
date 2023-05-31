@@ -1,0 +1,15 @@
+{
+  "name": "platzi-async",
+  "version": "1.0.0",
+  "description": "Repository and project of Platzi's Asynchronism with javascript course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "asincronismo"
+  ],
+  "author": "Ralerv",
+  "license": "MIT"
+}
