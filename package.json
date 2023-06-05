@@ -4,12 +4,15 @@
   "description": "Repository and project of Platzi's Asynchronism with javascript course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callback/challenge.js"
   },
   "keywords": [
     "javascript",
     "asincronismo"
   ],
   "author": "Ralerv",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
